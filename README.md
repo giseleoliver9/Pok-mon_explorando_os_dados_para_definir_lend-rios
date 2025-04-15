@@ -1,4 +1,4 @@
-# 🧠 Pokémon: explorando os dados para definir lendários
+# Pokémon: explorando os dados para definir lendários
 
 ![Banner Pokémon](https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/mewtwo%20vs%20charizard.jpg)
 
