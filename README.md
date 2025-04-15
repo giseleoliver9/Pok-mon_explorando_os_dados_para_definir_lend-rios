@@ -32,7 +32,6 @@ Este projeto usa **análise de dados** e **machine learning** para prever se um 
 
 ---
 
-## 📷 Exemplo de visualização
 
 ![Exemplo Gráfico](https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/top_5.png)  
 
