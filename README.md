@@ -36,7 +36,7 @@ Este projeto usa **análise de dados** e **machine learning** para prever se um 
 
 Aqui está um arquivo elaborado no Canvas para este projeto. Ele descreve a análise dos dados dos Pokémons lendários, mostrando gráficos e como as decisões de predição foram feitas.
 
-![Link do arquivo](https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/Apresentacao_Explorando_%20os_dados_para_definir_lendarios.pdf)
+[Link da Apresentação](https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/Apresentacao_Explorando_%20os_dados_para_definir_lendarios.pdf)
 
 
 
