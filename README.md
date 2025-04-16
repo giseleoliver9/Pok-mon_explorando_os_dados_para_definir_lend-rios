@@ -41,6 +41,13 @@ Aqui está um arquivo elaborado no Canvas para este projeto. Ele descreve a aná
 
 
 
-![Exemplo Gráfico](https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/top_5.png)  
+<p align="center">
+  <img src="https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/top_5.png?raw=true" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/download.png?raw=true" width="400"/>
+</p>
+
 
 ---
