@@ -1,6 +1,6 @@
 # Pokémon: explorando os dados para definir lendários
 
-![Banner Pokémon](https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/mewtwo%20vs%20charizard.jpg)
+<img src="https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/mewtwo%20vs%20charizard.jpg?raw=true" width="600"/>
 
 Este projeto usa **análise de dados** e **machine learning** para prever se um Pokémon é **lendário ou comum**, com base em suas estatísticas!
 
