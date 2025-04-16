@@ -18,7 +18,7 @@ Este projeto usa **análise de dados** e **machine learning** para prever se um 
 ## 🤖 Modelos de Machine Learning
 
 - 🌲 Random Forest  
-- 📈 Regressão Logística
+- 📈 Logistic Regression
 
 ---
 
